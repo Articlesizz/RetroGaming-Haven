@@ -4,6 +4,12 @@ Conversión del **template HTML** "Base HTML" (Anexo 3 de la Evaluación 2) a un
 
 > No hay backend. Ver [Integración con backend](#integración-con-backend).
 
+Documentación:
+
+- [`docs/ERS_V2.md`](docs/ERS_V2.md): especificación de requisitos (alcance, reglas, flujos, criterios de aceptación y propuesta del equipo).
+- [`docs/TESTING_COVERAGE.md`](docs/TESTING_COVERAGE.md): resultado de las pruebas, cobertura de código medida, mocks, alcance y límites.
+- [`docs/COMPONENTES.md`](docs/COMPONENTES.md): props, estado y diseño responsivo de cada componente.
+
 ## Requisitos
 
 - Node.js 20 o superior y npm.
