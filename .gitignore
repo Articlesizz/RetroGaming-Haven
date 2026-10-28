@@ -1,0 +1,16 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+coverage/
+
+# Material personal de la presentación (no se publica; va solo en el zip de entrega)
+docs/INFORME_DEFENSA.md
+docs/MATRIZ_CUMPLIMIENTO.md
+
+# La documentación de la entrega (ERS, cobertura, etc.) se entrega aparte; no se publica en el repositorio
+docs/
